@@ -1,0 +1,8 @@
+{
+  "name": "Gemini Live Vision",
+  "description": "Real-time video conversation with Gemini using the Live API. Experience low-latency multimodal interaction directly in your browser.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
