@@ -1,8 +1,5 @@
 {
-  "name": "Gemini Live Vision",
-  "description": "Real-time video conversation with Gemini using the Live API. Experience low-latency multimodal interaction directly in your browser.",
-  "requestFramePermissions": [
-    "camera",
-    "microphone"
-  ]
+  "name": "Amar Shastho AI",
+  "description": "A specialized AI telemedicine application for Bangladeshi users that routes patients to specific AI specialists based on symptoms, conducting consultations in Bangla.",
+  "requestFramePermissions": []
 }
